@@ -1,0 +1,25 @@
+
+Class name : 	Cisco ITE
+Teacher name : 	Myburgh
+Time : 	14:30
+
+1.Samnang Pheng   P  12/12/2021	Session|4|
+2.Mongkol Heng    A  12/12/2021	Session|4|
+3.Vathanak Sry    A  12/12/2021	Session|4|
+4.Sethyreach Ouk  P  12/12/2021	Session|4|
+5.Marathon Moul   P  12/12/2021	Session|4|
+1.Samnang Pheng   P  12/12/2021	Session|5|
+2.Mongkol Heng    P  12/12/2021	Session|5|
+3.Vathanak Sry    A  12/12/2021	Session|5|
+4.Sethyreach Ouk  P  12/12/2021	Session|5|
+5.Marathon Moul   A  12/12/2021	Session|5|
+
+Class name : 	C
+Teacher name : 	Tongsreng Tal
+Time : 	18:30
+
+1.Samnang Pheng   A  14/8/2021	Session|1|
+2.Mongkol Heng    P  14/8/2021	Session|1|
+3.Vathanak Sry    A  14/8/2021	Session|1|
+3.Vathanak Sry    P  14/8/2021	Session|1|
+4.Sethyreach Ouk  P  14/8/2021	Session|1|
